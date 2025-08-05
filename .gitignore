@@ -1,3 +1,17 @@
+*.csv
+*.xlsx
+*.xls
+
+# Pastas de dados brutos e processados
+/data/
+*/data/
+datasets/
+output/
+logs/
+results/
+checkpoints/
+runs/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
